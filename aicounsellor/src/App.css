@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap");
+.App {
+  margin: 0px;
+  color: black;
+}
+.head {
+  font-family: "Dancing Script", cursive;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  color: rgb(248, 243, 243);
+  font-weight: 800;
+  margin: 10px;
+}
+.material-symbols-outlined {
+  padding: 5px 10px;
+  color: black;
+  font-size: xx-large;
+}
+.header {
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #042c54;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.chat-button {
+  background-color: transparent;
+  border: 2px solid rgb(92, 18, 92);
+  border-radius: 5px;
+  margin-left: 50px;
+  padding: 3px;
+  cursor: pointer;
+  margin-top: 2px;
+  width: 50%;
+}
+.chat-button:hover {
+  background-color: orangered;
+  color: white;
+  font-weight: 400;
+}
+.bot-functions-container {
+  display: flex;
+  flex-direction: column;
+}
