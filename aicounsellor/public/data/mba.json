@@ -285,8 +285,8 @@
     "CTScore": 0.75,
     "Exam": "CAT",
     "Score": 76.0638767968,
-    "IT": ,
-    "NIRF": 
+    "IT": 7,
+    "NIRF": 13 
   },
   {
     "Id": 18,
@@ -301,7 +301,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.4086245457
+    "Score": 90.4086245457,
+    "IT": 12,
+    "NIRF": 26
   },
   {
     "Id": 19,
@@ -316,7 +318,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.5266163818
+    "Score": 91.5266163818,
+    "IT": 12,
+    "NIRF": 101
   },
   {
     "Id": 20,
@@ -331,7 +335,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 64.6762026239
+    "Score": 64.6762026239,
+    "IT": 1,
+    "NIRF": 98
   },
   {
     "Id": 21,
@@ -346,7 +352,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 62.3599320381
+    "Score": 62.3599320381,
+    "IT": 13,
+    "NIRF": 10
   },
   {
     "Id": 22,
@@ -361,7 +369,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.69555744
+    "Score": 91.69555744,
+		"IT": 16,
+    "NIRF": 5
   },
   {
     "Id": 23,
@@ -376,7 +386,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 59.0174441205
+    "Score": 59.0174441205,
+    "IT": 27,
+    "NIRF": 34
   },
   {
     "Id": 24,
@@ -391,7 +403,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.2275431253
+    "Score": 91.2275431253,
+    "IT": 14,
+    "NIRF": 17
   },
   {
     "Id": 25,
@@ -406,7 +420,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 92.4138819904
+    "Score": 92.4138819904,
+    "IT": 3,
+    "NIRF": 1
   },
   {
     "Id": 26,
@@ -421,7 +437,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.5672649036
+    "Score": 90.5672649036,
+    "IT": 4,
+    "NIRF": 9
   },
   {
     "Id": 27,
@@ -436,7 +454,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.4013419578
+    "Score": 91.4013419578,
+    "IT": 18,
+    "NIRF": 16
   },
   {
     "Id": 28,
@@ -451,7 +471,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.3079947575
+    "Score": 90.3079947575,
+    "IT": 25,
+    "NIRF": 11
   },
   {
     "Id": 29,
@@ -466,7 +488,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.9002887419
+    "Score": 90.9002887419,
+    "IT": 19,
+    "NIRF": 22
   },
   {
     "Id": 30,
@@ -481,7 +505,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.0085669433
+    "Score": 90.0085669433,
+    "IT": 15,
+    "NIRF": 5
   },
   {
     "Id": 31,
@@ -496,7 +522,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 92.0937245745
+    "Score": 92.0937245745,
+    "IT": 24,
+    "NIRF": 7
   },
   {
     "Id": 32,
@@ -511,7 +539,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 61.8253246576
+    "Score": 61.8253246576,
+    "IT": 24,
+    "NIRF": 14
   },
   {
     "Id": 33,
@@ -526,7 +556,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.805498557
+    "Score": 91.805498557,
+    "IT": 3,
+    "NIRF": 1
   },
   {
     "Id": 34,
@@ -541,7 +573,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.6422655016
+    "Score": 90.6422655016,
+    "IT": 8,
+    "NIRF": 12
   },
   {
     "Id": 35,
@@ -556,7 +590,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.6258701099
+    "Score": 90.6258701099,
+    "IT": 28,
+    "NIRF": 19
   },
   {
     "Id": 36,
@@ -571,7 +607,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.2776754085
+    "Score": 91.2776754085,
+    "IT": 13,
+    "NIRF" 38
   },
   {
     "Id": 37,
@@ -586,7 +624,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.75,
     "Exam": "CAT",
-    "Score": 76.2148260782
+    "Score": 76.2148260782,
+    "IT": 67,
+    "NIRF": 93
   },
   {
     "Id": 38,
@@ -601,7 +641,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 60.2980991027
+    "Score": 60.2980991027,
+    "IT": 20,
+    "NIRF": 31
   },
   {
     "Id": 39,
@@ -616,7 +658,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.3950104576
+    "Score": 91.3950104576,
+    "IT": 8,
+    "NIRF": 37
   },
   {
     "Id": 40,
@@ -631,7 +675,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.6773115369
+    "Score": 91.6773115369,
+    "IT": 24,
+    "NIRF" 43
   },
   {
     "Id": 41,
@@ -646,7 +692,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 92.2016353475
+    "Score": 92.2016353475,
+    "IT": 24,
+    "NIRF": 29
   },
   {
     "Id": 42,
@@ -661,7 +709,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.6171105849
+    "Score": 91.6171105849,
+    "IT": 34,
+    "NIRF": 51
   },
   {
     "Id": 43,
@@ -676,7 +726,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.6248909392
+    "Score": 90.6248909392,
+    "IT": 46,
+    "NIRF": 53
   },
   {
     "Id": 44,
@@ -691,7 +743,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.2201558547
+    "Score": 90.2201558547,
+    "IT": 35,
+    "NIRF": 41
   },
   {
     "Id": 45,
@@ -706,7 +760,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.8181345157
+    "Score": 91.8181345157,
+    "IT": 43,
+    "NIRF": 58
   },
   {
     "Id": 46,
@@ -721,7 +777,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 89.994191489
+    "Score": 89.994191489,
+    "IT": 87,
+    "NIRF": 98
   },
   {
     "Id": 47,
@@ -736,7 +794,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 93.4002207049
+    "Score": 93.4002207049,
+    "IT": 5,
+    "NIRF": 8
   },
   {
     "Id": 48,
@@ -751,7 +811,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 99.7370317503
+    "Score": 99.7370317503,
+    "IT": 3,
+    "NIRF": 5
   },
   {
     "Id": 49,
@@ -766,7 +828,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 90.986535509
+    "Score": 90.986535509,
+    "IT": 11,
+    "NIRF": 34
   },
   {
     "Id": 50,
@@ -781,7 +845,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.75,
     "Exam": "CAT",
-    "Score": 75.9817215991
+    "Score": 75.9817215991,
+    "IT": 21,
+    "NIRF": 42
   },
   {
     "Id": 51,
