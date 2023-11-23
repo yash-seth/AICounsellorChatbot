@@ -48,7 +48,7 @@ function App() {
           <Header dataHandler={getData} />
           <Carousel />
           <Table />
-          <DummyButton />
+          {/* <DummyButton /> */}
           <ChatAssist />
         </Router>
       </DataContext.Provider>

@@ -142,12 +142,13 @@ const Table = (props) => {
                         <span className="Result">Score</span> = ( 0.6 *
                         <span className="attr">CTypeScore</span> + 0.2 *
                         <span className="attr">Rating</span> + 0.2 *
-                        <span className="attr">ROI</span> )*100 + 14
+                        <span className="attr">ROI</span>)*100 + 14
                       </Typography>
                     </Box>
                   </Modal>
                 </>
               </th>
+              <th>Exams</th>
               <th>Review</th>
             </tr>
           </thead>
@@ -173,6 +174,7 @@ const Table = (props) => {
                       <td>{record.Package}</td>
                       <td>{record.Rating}</td>
                       <td>{record.Score}</td>
+                      <td>{record.Exam}</td>
                       <td>{record.Review}</td>
                     </tr>
                   );
@@ -190,6 +192,7 @@ const Table = (props) => {
                       <td>{record.Package}</td>
                       <td>{record.Rating}</td>
                       <td>{record.Score}</td>
+                      <td>{record.Exam}</td>
                       <td>{record.Review}</td>
                     </tr>
                   );

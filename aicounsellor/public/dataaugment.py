@@ -1,7 +1,8 @@
 import json
 import pandas as pd
 
-df = pd.read_json('./data/mba.json')
+# df = pd.read_json(
+#     '/Users/vinaymoolya/Desktop/projects/AI_PROJ/mtech_final.json')
 
 # df.loc[df['Package'] > 5000000, 'Package'] = df['Package']/2
 
@@ -21,8 +22,11 @@ df = pd.read_json('./data/mba.json')
 
 # now we also need to add what exams the students are supposed to write to join that college
 
-# df['Exam'] = 'CAT'
+# df['NIRF'] = -1
+# df['QS'] = -1
 
+# df['IT'] = -1
+# print(df)
 # # normalisation
 # MaxROI = df['ROI'].max()
 # MinROI = df['ROI'].min()
@@ -37,4 +41,4 @@ df = pd.read_json('./data/mba.json')
 # print(df['Score'].max())
 # print(df)
 
-# df.to_json('mba_final.json', orient='records')
+# df.to_json('mtech_final1.json', orient='records')
