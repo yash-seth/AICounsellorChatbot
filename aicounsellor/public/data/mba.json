@@ -12,7 +12,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 92.5319241983
+    "Score": 92.5319241983,
+    "IT": 2,
+    "NIRF": 1
   },
   {
     "Id": 2,
@@ -27,7 +29,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 92.7333432498
+    "Score": 92.7333432498,
+    "IT": 3,
+    "NIRF": 2
   },
   {
     "Id": 3,
@@ -42,7 +46,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.9112852284
+    "Score": 91.9112852284,
+    "IT": 1,
+    "NIRF": 99
   },
   {
     "Id": 4,
@@ -57,7 +63,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 61.0207749459
+    "Score": 61.0207749459,
+    "IT": 158,
+    "NIRF": 101
   },
   {
     "Id": 5,
@@ -72,7 +80,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.75,
     "Exam": "CAT",
-    "Score": 77.0824610032
+    "Score": 77.0824610032,
+    "IT": 6,
+    "NIRF": 9
   },
   {
     "Id": 6,
@@ -87,7 +97,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.75,
     "Exam": "CAT",
-    "Score": 79.2164358601
+    "Score": 79.2164358601,
+    "IT": 8,
+    "NIRF": 35
   },
   {
     "Id": 7,
@@ -102,7 +114,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 59.5353113483
+    "Score": 59.5353113483,
+    "IT Final": 12,
+    "NIRF": 40  
   },
   {
     "Id": 8,
@@ -117,7 +131,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.1323159621
+    "Score": 91.1323159621,
+    "IT": 5,
+    "NIRF": 20
   },
   {
     "Id": 9,
@@ -132,7 +148,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT / GMAT / CMAT",
-    "Score": 89.6660857455
+    "Score": 89.6660857455,
+    "IT": 31,
+    "NIRF": 48
   },
   {
     "Id": 10,
@@ -147,7 +165,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.3585157155
+    "Score": 91.3585157155,
+    "IT": 4,
+    "NIRF": 6
   },
   {
     "Id": 11,
@@ -162,7 +182,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT / GMAT / CMAT",
-    "Score": 91.467242505
+    "Score": 91.467242505,
+    "IT": 22,
+    "NIRF": 11
   },
   {
     "Id": 12,
@@ -177,7 +199,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.8126076722
+    "Score": 91.8126076722,
+    "IT": 6,
+    "NIRF": 8
   },
   {
     "Id": 13,
@@ -192,7 +216,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 91.5698535163
+    "Score": 91.5698535163,
+    "IT": 8,
+    "NIRF": 79
   },
   {
     "Id": 14,
@@ -207,7 +233,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.5,
     "Exam": "CAT",
-    "Score": 59.2560874933
+    "Score": 59.2560874933,
+    "IT": 169,
+    "NIRF": 64
   },
   {
     "Id": 15,
@@ -222,7 +250,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT + MAH MBA-CET",
-    "Score": 91.2351155768
+    "Score": 91.2351155768,
+    "IT": 22,
+    "NIRF": 10
   },
   {
     "Id": 16,
@@ -237,7 +267,9 @@
     "ProgramType": "MBA",
     "CTScore": 1.0,
     "Exam": "CAT",
-    "Score": 92.3215677237
+    "Score": 92.3215677237,
+    "IT": 9,
+    "NIRF": 27
   },
   {
     "Id": 17,
@@ -252,7 +284,9 @@
     "ProgramType": "MBA",
     "CTScore": 0.75,
     "Exam": "CAT",
-    "Score": 76.0638767968
+    "Score": 76.0638767968,
+    "IT": ,
+    "NIRF": 
   },
   {
     "Id": 18,
