@@ -12,7 +12,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.7561185231
+    "Score": 97.7561185231,
+    "IT": 2,
+    "NIRF": 1
   },
   {
     "Id": 2,
@@ -27,7 +29,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.6708691622
+    "Score": 97.6708691622,
+    "IT": 3,
+    "NIRF": 3
   },
   {
     "Id": 3,
@@ -42,7 +46,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.9299876409
+    "Score": 97.9299876409,
+    "IT": 2,
+    "NIRF": 4
   },
   {
     "Id": 4,
@@ -57,7 +63,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 98.4255310977
+    "Score": 98.4255310977,
+    "IT": 4,
+    "NIRF": 7
   },
   {
     "Id": 5,
@@ -72,7 +80,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 98.3286757749
+    "Score": 98.3286757749,
+    "IT": 3,
+    "NIRF": 5
   },
   {
     "Id": 6,
@@ -87,7 +97,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.8939106386
+    "Score": 97.8939106386,
+    "IT": 5,
+    "NIRF": 7
   },
   {
     "Id": 7,
@@ -102,7 +114,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE-Mains + JEE-Adv + BITSAT",
-    "Score": 67.638750287
+    "Score": 67.638750287,
+    "IT": 1,
+    "NIRF": 20
   },
   {
     "Id": 8,
@@ -117,7 +131,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 98.3649276843
+    "Score": 98.3649276843,
+    "IT": 6,
+    "NIRF": 7
   },
   {
     "Id": 9,
@@ -132,7 +148,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.287051027
+    "Score": 97.287051027,
+    "IT": 9,
+    "NIRF": 8
   },
   {
     "Id": 10,
@@ -147,7 +165,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + TNEA",
-    "Score": 67.5451159105
+    "Score": 67.5451159105,
+    "IT": 12,
+    "NIRF": 9
   },
   {
     "Id": 11,
@@ -162,7 +182,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 81.9911670413
+    "Score": 81.9911670413,
+    "IT": 9,
+    "NIRF": 21
   },
   {
     "Id": 12,
@@ -177,7 +199,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JJEE-Mains + JEE-Adv",
-    "Score": 97.4588894451
+    "Score": 97.4588894451,
+    "IT": 8,
+    "NIRF": 31
   },
   {
     "Id": 13,
@@ -192,7 +216,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.25,
     "Exam": "JEE + MHT CET",
-    "Score": 52.391111018
+    "Score": 52.391111018,
+    "IT": 13,
+    "NIRF": 23
   },
   {
     "Id": 14,
@@ -207,7 +233,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.3785344952
+    "Score": 97.3785344952,
+    "IT": 10,
+    "NIRF": 28
   },
   {
     "Id": 15,
@@ -222,7 +250,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + WBJEE",
-    "Score": 82.998300019
+    "Score": 82.998300019,
+    "IT": 10,
+    "NIRF": 10
   },
   {
     "Id": 16,
@@ -237,7 +267,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 67.3955473326
+    "Score": 67.3955473326,
+    "IT": 12,
+    "NIRF": 42
   },
   {
     "Id": 17,
@@ -252,7 +284,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 82.008756003
+    "Score": 82.008756003,
+    "IT": 21,
+    "NIRF": 16
   },
   {
     "Id": 18,
@@ -267,7 +301,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 96.872799143
+    "Score": 96.872799143,
+    "IT": 11,
+    "NIRF": 47
   },
   {
     "Id": 19,
@@ -282,7 +318,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE-Mains + JEE-Adv + VITEEE",
-    "Score": 66.7386333063
+    "Score": 66.7386333063,
+    "IT": 4,
+    "NIRF": 11
   },
   {
     "Id": 20,
@@ -297,7 +335,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 66.4733099527
+    "Score": 66.4733099527,
+    "IT": 17,
+    "NIRF": 35
   },
   {
     "Id": 21,
@@ -312,7 +352,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 96.9737995265
+    "Score": 96.9737995265,
+    "IT": 12,
+    "NIRF": 33
   },
   {
     "Id": 22,
@@ -327,7 +369,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 82.2882238642
+    "Score": 82.2882238642,
+    "IT": 16,
+    "NIRF": 9
   },
   {
     "Id": 23,
@@ -342,7 +386,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.3771506142
+    "Score": 97.3771506142,
+    "IT": 11,
+    "NIRF": 41
   },
   {
     "Id": 24,
@@ -357,7 +403,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE",
-    "Score": 65.4858449236
+    "Score": 65.4858449236,
+    "IT": 20,
+    "NIRF": 23
   },
   {
     "Id": 25,
@@ -372,7 +420,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.6294895689
+    "Score": 97.6294895689,
+    "IT": 9,
+    "NIRF": 18
   },
   {
     "Id": 26,
@@ -387,7 +437,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 82.0886096716
+    "Score": 82.0886096716,
+    "IT": 40,
+    "NIRF": 21
   },
   {
     "Id": 27,
@@ -402,7 +454,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + CUET",
-    "Score": 66.6377335671
+    "Score": 66.6377335671,
+    "IT": 8,
+    "NIRF": 29
   },
   {
     "Id": 28,
@@ -417,7 +471,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE",
-    "Score": 68.3737663393
+    "Score": 68.3737663393,
+    "IT": 29,
+    "NIRF": 29
   },
   {
     "Id": 29,
@@ -432,7 +488,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 81.4569054669
+    "Score": 81.4569054669,
+    "IT": 23,
+    "NIRF": 23
   },
   {
     "Id": 30,
@@ -447,7 +505,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 97.9513670717
+    "Score": 97.9513670717,
+    "IT": 11,
+    "NIRF": 22
   },
   {
     "Id": 31,
@@ -462,7 +522,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 81.9780681179
+    "Score": 81.9780681179,
+    "IT": 16,
+    "NIRF": 9
   },
   {
     "Id": 32,
@@ -477,7 +539,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE",
-    "Score": 66.4384921223
+    "Score": 66.4384921223,
+    "IT": 41,
+    "NIRF": 41
   },
   {
     "Id": 33,
@@ -492,7 +556,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.25,
     "Exam": "JEE + SAAT",
-    "Score": 51.4369094564
+    "Score": 51.4369094564,
+    "IT": 32,
+    "NIRF": 32
   },
   {
     "Id": 34,
@@ -507,7 +573,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + BITSAT",
-    "Score": 64.7703846604
+    "Score": 64.7703846604,
+    "IT": 43,
+    "NIRF": 53
   },
   {
     "Id": 35,
@@ -522,7 +590,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + CUET + Amity JEE",
-    "Score": 66.3573440384
+    "Score": 66.3573440384,
+    "IT": 65,
+    "NIRF": 31
   },
   {
     "Id": 36,
@@ -537,7 +607,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + SRMJEEE",
-    "Score": 64.7337827609
+    "Score": 64.7337827609,
+    "IT": 13,
+    "NIRF": 36
   },
   {
     "Id": 37,
@@ -552,7 +624,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.25,
     "Exam": "JEE + TNEA + TANCET",
-    "Score": 51.7015913077
+    "Score": 51.7015913077,
+    "IT": 48,
+    "NIRF": 45
   },
   {
     "Id": 38,
@@ -567,7 +641,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.25,
     "Exam": "JEE + TNEA + TANCET",
-    "Score": 50.5665947029
+    "Score": 50.5665947029,
+    "IT": 47,
+    "NIRF": 41
   },
   {
     "Id": 39,
@@ -582,7 +658,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 81.6705460204
+    "Score": 81.6705460204,
+    "IT": 2,
+    "NIRF": 55
   },
   {
     "Id": 40,
@@ -597,7 +675,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + CUET",
-    "Score": 66.4509066525
+    "Score": 66.4509066525,
+    "IT": 49,
+    "NIRF": 32
   },
   {
     "Id": 41,
@@ -612,7 +692,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 81.7012659617
+    "Score": 81.7012659617,
+    "IT": 28,
+    "NIRF": 58
   },
   {
     "Id": 42,
@@ -627,7 +709,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.55,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 70.7931067809
+    "Score": 70.7931067809,
+    "IT": 14,
+    "NIRF": 49
   },
   {
     "Id": 43,
@@ -642,7 +726,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE-Mains + JEE-Adv + MET",
-    "Score": 67.2155513672
+    "Score": 67.2155513672,
+    "IT": 16,
+    "NIRF": 9
   },
   {
     "Id": 44,
@@ -657,7 +743,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.25,
     "Exam": "JEE + TNEA + TANCET",
-    "Score": 53.2382394858
+    "Score": 53.2382394858,
+    "IT": 30,
+    "NIRF": 63
   },
   {
     "Id": 45,
@@ -672,7 +760,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE",
-    "Score": 65.3346360488
+    "Score": 65.3346360488,
+    "IT": 80,
+    "NIRF": 83
   },
   {
     "Id": 46,
@@ -687,7 +777,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE + TS-EAMCET",
-    "Score": 82.4198697521
+    "Score": 82.4198697521,
+    "IT": 23,
+    "NIRF": 43
   },
   {
     "Id": 47,
@@ -702,7 +794,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.25,
     "Exam": "JEE + TNEA + TANCET",
-    "Score": 50.8656056501
+    "Score": 50.8656056501,
+    "IT": 14,
+    "NIRF": 66
   },
   {
     "Id": 48,
@@ -717,7 +811,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.5,
     "Exam": "JEE + KIITEE",
-    "Score": 66.8778859992
+    "Score": 66.8778859992,
+    "IT": 45,
+    "NIRF": 39
   },
   {
     "Id": 49,
@@ -732,7 +828,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.25,
     "Exam": "JEE + MHT CET",
-    "Score": 52.806301738
+    "Score": 52.806301738,
+    "IT": 70,
+    "NIRF": 73
   },
   {
     "Id": 50,
@@ -747,7 +845,9 @@
     "ProgramType": "Btech",
     "CTScore": 1.0,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 98.4923957249
+    "Score": 98.4923957249,
+    "IT": 50,
+    "NIRF": 53
   },
   {
     "Id": 51,
@@ -762,7 +862,9 @@
     "ProgramType": "Btech",
     "CTScore": 0.75,
     "Exam": "JEE-Mains + JEE-Adv",
-    "Score": 81.7041535907
+    "Score": 81.7041535907,
+    "IT": 36,
+    "NIRF": 40
   },
   {
     "Id": 52,
