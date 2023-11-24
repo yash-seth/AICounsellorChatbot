@@ -60,6 +60,21 @@ tbody > tr:hover {
   color: rgb(47, 151, 255);
   font-weight: 900;
 }
-.attr {
-  color: rgb(234, 151, 27);
+.attr1 {
+  color: rgb(234, 124, 27);
+  font-weight: bold;
+}
+.attr2 {
+  color: rgb(151, 27, 234);
+  font-weight: bold;
+}
+
+.attr3 {
+  color: rgb(12, 109, 27);
+  font-weight: bold;
+}
+
+.attr4 {
+  color: rgb(231, 27, 234);
+  font-weight: bold;
 }

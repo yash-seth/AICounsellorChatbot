@@ -2,7 +2,7 @@ import json
 import pandas as pd
 
 df = pd.read_json(
-    "/Users/vinaymoolya/Desktop/projects/AI_PROJ/aicounsellor/public/data/btech.json")
+    "/Users/vinaymoolya/Desktop/projects/AI_PROJ/aicounsellor/public/data/mba.json")
 
 # df.loc[df['Package'] > 5000000, 'Package'] = df['Package']/2
 
@@ -27,12 +27,9 @@ df = pd.read_json(
 #     else:
 #         row['NIRF'] = row['NIRF']
 
-df['IT'] = 250 if df['IT'] == -1 else df['IT']
-df['NIRF'] = 250 if df['NIRF'] == -1 else df['NIRF']
+# df['IT'] = 250 if df['IT'] == -1 else df['IT']
+# df['NIRF'] = 250 if df['NIRF'] == -1 else df['NIRF']
 
-print(df)
-# df['Score'] = 0.3*(20/df['Id']) + 0.2*df['ROI'] + \
-# 0.5((50/df['IT']) + (50/df['NIRF']))
 
 # now we also need to add what exams the students are supposed to write to join that college
 
@@ -42,17 +39,31 @@ print(df)
 # df['IT'] = -1
 # print(df)
 # # normalisation
-# MaxROI = df['ROI'].max()
-# MinROI = df['ROI'].min()
+# MaxROI = df['IT'].max()
+# MinROI = df['IT'].min()
 # Diff = MaxROI - MinROI
 
-# df['ROI'] = (df['ROI'] - MinROI)/Diff
+# df['IT'] = (df['IT'] - MinROI)/Diff
+
+# MaxROI = df['NIRF'].max()
+# MinROI = df['NIRF'].min()
+# Diff = MaxROI - MinROI
+
+# df['NIRF'] = (df['NIRF'] - MinROI)/Diff
 
 # # score evaluation - based on type , Rating on different standards , ROI
 # df['Score'] = (0.6*df['CTScore'] + 0.2 *
 #                (df['Rating']/10) + 0.2*(df['ROI']))*100 + 14
+# df['Score'] = (0.3*(1/df['Id']) + 0.2*df['ROI'] + 0.3 *
+#                (((df['IT'].min())/df['IT']) +
+#                 ((df['NIRF'].min())/df['NIRF'])) + df['CTScore']*0.2)*100
 
+df['Score'] = (0.3*(df['Id'].max()-df['Id']) + 0.2*df['ROI'] + 0.3 * (
+               (df['IT'].max() - df['IT']) +
+               (df['NIRF'].max() - df['NIRF'])) + df['CTScore']*0.2)
+
+df['Score'] = df["Score"] * 100 / df["Score"].max()
 # print(df['Score'].max())
-# print(df)
-
-# df.to_json('mtech_final.json', orient='records')
+# print(df['Score'])
+print(df)
+df.to_json('mba_final.json', orient='records')

@@ -139,16 +139,25 @@ const Table = (props) => {
                         Formula for Score Calculation
                       </Typography>
                       <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                        <span className="Result">Score</span> = ( 0.6 *
-                        <span className="attr">CTypeScore</span> + 0.2 *
-                        <span className="attr">Rating</span> + 0.2 *
-                        <span className="attr">ROI</span>)*100 + 14
+                        <span className="Result">Score</span> = ( 0.3 *
+                        <span className="attr1">
+                          CDRank.max() - i<sup>th</sup> CDRank
+                        </span>{" "}
+                        + 0.2 *<span className="attr2">CTScore</span> + 0.2 *
+                        <span className="attr3">ROI</span>+ 0.3*
+                        <span className="attr4">
+                          ((IndiaTodayRank.max() - i<sup>th</sup>{" "}
+                          CollegeIndiaTodayRank) + (NIRFRank.max() - i
+                          <sup>th</sup> CollegeNIRFRank))
+                        </span>{" "}
+                        )*100
                       </Typography>
                     </Box>
                   </Modal>
                 </>
               </th>
               <th>Exams</th>
+              <th>NIRF Rank</th>
               <th>Review</th>
             </tr>
           </thead>
@@ -175,6 +184,7 @@ const Table = (props) => {
                       <td>{record.Rating}</td>
                       <td>{record.Score}</td>
                       <td>{record.Exam}</td>
+                      <td>{record.NIRF}</td>
                       <td>{record.Review}</td>
                     </tr>
                   );
@@ -193,6 +203,7 @@ const Table = (props) => {
                       <td>{record.Rating}</td>
                       <td>{record.Score}</td>
                       <td>{record.Exam}</td>
+                      <td>{record.NIRF}</td>
                       <td>{record.Review}</td>
                     </tr>
                   );
