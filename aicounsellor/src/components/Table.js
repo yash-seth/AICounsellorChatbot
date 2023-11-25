@@ -26,6 +26,8 @@ const Table = (props) => {
   const [feeattr, setFeeAttr] = useState("999999999");
   const [packageAttr, setPackageAttr] = useState("0");
   const [sortattr, setSortAttr] = useState("Id");
+  const [locattr, setLocAttr] = useState("");
+  const [distinctLoc, setDistinctLocation] = useState([]);
   const [loadData, setLoadData] = useState([]);
 
   const [open, setOpen] = useState(false);
@@ -35,7 +37,7 @@ const Table = (props) => {
   const handleClose = () => {
     setOpen(false);
   };
-
+  // setLoadData([...new Set(loadData.map((record) => record.Location))]);
   useEffect(() => {
     setLoadData(
       data.filter(
@@ -46,6 +48,9 @@ const Table = (props) => {
     );
   }, [feeattr, packageAttr, data]);
 
+  useEffect(() => {
+    setDistinctLocation([...new Set(loadData.map((record) => record.State))]);
+  }, [loadData]);
   return (
     <div>
       <div className="filter-container">
@@ -106,6 +111,31 @@ const Table = (props) => {
               <option value="Fees">Fees</option>
               <option value="Package">Package</option>
               <option value="Score">Score</option>
+            </select>
+          </div>
+        </div>
+        <div className="filter-criteria">
+          <div>
+            <CardGiftcardRoundedIcon style={{ color: "gold" }} />
+          </div>
+          <div>
+            <span className="attr">Location</span>
+          </div>
+          <div>
+            <select
+              value={locattr}
+              onChange={(e) => {
+                setLocAttr(e.target.value);
+                setSortAttr("Location");
+              }}
+            >
+              {distinctLoc.map((record, index) => {
+                return (
+                  <option value={record} key={index}>
+                    {record}
+                  </option>
+                );
+              })}
             </select>
           </div>
         </div>
@@ -189,7 +219,27 @@ const Table = (props) => {
                     </tr>
                   );
                 })}
+            {sortattr === "Location" &&
+              loadData
+                .filter((college) => college.State === locattr)
+                .map((record) => {
+                  return (
+                    <tr key={record.Id}>
+                      <td>{record.Id}</td>
+                      <td>{record.Name}</td>
+                      <td>{record.Location}</td>
+                      <td>{record.Fees}</td>
+                      <td>{record.Package}</td>
+                      <td>{record.Rating}</td>
+                      <td>{record.Score}</td>
+                      <td>{record.Exam}</td>
+                      <td>{record.NIRF}</td>
+                      <td>{record.Review}</td>
+                    </tr>
+                  );
+                })}
             {sortattr !== "Id" &&
+              sortattr !== "Location" &&
               loadData
                 .sort((a, b) => (a[sortattr] < b[sortattr] ? 1 : -1))
                 .map((record) => {

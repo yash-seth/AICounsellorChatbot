@@ -1,7 +1,7 @@
 import React from "react";
 
 const MessageParser = ({ children, actions }) => {
-  console.log("Checker :: ", children.props.state.checker);
+  // console.log("Checker :: ", children.props.state.checker);
   const parse = (message) => {
     if (children.props.state.checker === "inquired_college") {
       actions.college_fetch(message);

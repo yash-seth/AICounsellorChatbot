@@ -58,12 +58,16 @@ df = pd.read_json(
 #                (((df['IT'].min())/df['IT']) +
 #                 ((df['NIRF'].min())/df['NIRF'])) + df['CTScore']*0.2)*100
 
-df['Score'] = (0.3*(df['Id'].max()-df['Id']) + 0.2*df['ROI'] + 0.3 * (
-               (df['IT'].max() - df['IT']) +
-               (df['NIRF'].max() - df['NIRF'])) + df['CTScore']*0.2)
+# df['Score'] = (0.3*(df['Id'].max()-df['Id']) + 0.2*df['ROI'] + 0.3 * (
+#                (df['IT'].max() - df['IT']) +
+#                (df['NIRF'].max() - df['NIRF'])) + df['CTScore']*0.2)
 
-df['Score'] = df["Score"] * 100 / df["Score"].max()
+# df['Score'] = df["Score"] * 100 / df["Score"].max()
 # print(df['Score'].max())
 # print(df['Score'])
-print(df)
-df.to_json('mba_final.json', orient='records')
+# states = set()
+# for i in range(len(df)):
+#     df.loc[i, "State"] = df.loc[i, "Location"].split(',')[1]
+# # print(states)
+# # print(df["State"])
+# df.to_json('mtech_final.json', orient='records')

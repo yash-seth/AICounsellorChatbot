@@ -14,7 +14,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 100.0,
     "IT": 2,
-    "NIRF": 1
+    "NIRF": 1,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 2,
@@ -31,7 +32,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 98.0909626244,
     "IT": 3,
-    "NIRF": 3
+    "NIRF": 3,
+    "State": " Delhi NCR"
   },
   {
     "Id": 3,
@@ -48,7 +50,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 97.6149819174,
     "IT": 2,
-    "NIRF": 4
+    "NIRF": 4,
+    "State": " Maharashtra"
   },
   {
     "Id": 4,
@@ -65,7 +68,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 94.7645160112,
     "IT": 4,
-    "NIRF": 7
+    "NIRF": 7,
+    "State": " West Bengal"
   },
   {
     "Id": 5,
@@ -82,7 +86,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 95.7136378661,
     "IT": 3,
-    "NIRF": 5
+    "NIRF": 5,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 6,
@@ -99,7 +104,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 93.3253030516,
     "IT": 5,
-    "NIRF": 7
+    "NIRF": 7,
+    "State": " Uttarakhand"
   },
   {
     "Id": 7,
@@ -116,7 +122,8 @@
     "Exam": "JEE-Mains + JEE-Adv + BITSAT",
     "Score": 88.3898883549,
     "IT": 1,
-    "NIRF": 20
+    "NIRF": 20,
+    "State": " Rajasthan"
   },
   {
     "Id": 8,
@@ -133,7 +140,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 91.9020293726,
     "IT": 6,
-    "NIRF": 7
+    "NIRF": 7,
+    "State": " Assam"
   },
   {
     "Id": 9,
@@ -150,7 +158,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 89.5066502586,
     "IT": 9,
-    "NIRF": 8
+    "NIRF": 8,
+    "State": " Telangana"
   },
   {
     "Id": 10,
@@ -167,7 +176,8 @@
     "Exam": "JEE + TNEA",
     "Score": 86.9703560948,
     "IT": 12,
-    "NIRF": 9
+    "NIRF": 9,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 11,
@@ -184,7 +194,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 82.2718311894,
     "IT": 9,
-    "NIRF": 21
+    "NIRF": 21,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 12,
@@ -201,7 +212,8 @@
     "Exam": "JJEE-Mains + JEE-Adv",
     "Score": 77.5863686807,
     "IT": 8,
-    "NIRF": 31
+    "NIRF": 31,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 13,
@@ -218,7 +230,8 @@
     "Exam": "JEE + MHT CET",
     "Score": 78.2974925142,
     "IT": 13,
-    "NIRF": 23
+    "NIRF": 23,
+    "State": " Maharashtra"
   },
   {
     "Id": 14,
@@ -235,7 +248,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 77.1081707157,
     "IT": 10,
-    "NIRF": 28
+    "NIRF": 28,
+    "State": " Madhya Pradesh"
   },
   {
     "Id": 15,
@@ -252,7 +266,8 @@
     "Exam": "JEE + WBJEE",
     "Score": 85.3051591819,
     "IT": 10,
-    "NIRF": 10
+    "NIRF": 10,
+    "State": " West Bengal"
   },
   {
     "Id": 16,
@@ -269,7 +284,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 68.3648980487,
     "IT": 12,
-    "NIRF": 42
+    "NIRF": 42,
+    "State": " Jharkhand"
   },
   {
     "Id": 17,
@@ -286,7 +302,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 76.0753233336,
     "IT": 21,
-    "NIRF": 16
+    "NIRF": 16,
+    "State": " Orissa"
   },
   {
     "Id": 18,
@@ -303,7 +320,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 65.6603969842,
     "IT": 11,
-    "NIRF": 47
+    "NIRF": 47,
+    "State": " Orissa"
   },
   {
     "Id": 19,
@@ -320,7 +338,8 @@
     "Exam": "JEE-Mains + JEE-Adv + VITEEE",
     "Score": 85.5299530254,
     "IT": 4,
-    "NIRF": 11
+    "NIRF": 11,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 20,
@@ -337,7 +356,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 67.4091137299,
     "IT": 17,
-    "NIRF": 35
+    "NIRF": 35,
+    "State": " West Bengal"
   },
   {
     "Id": 21,
@@ -354,7 +374,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 70.4312079642,
     "IT": 12,
-    "NIRF": 33
+    "NIRF": 33,
+    "State": " Himachal Pradesh"
   },
   {
     "Id": 22,
@@ -371,7 +392,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 79.4118509309,
     "IT": 16,
-    "NIRF": 9
+    "NIRF": 9,
+    "State": " Karnataka"
   },
   {
     "Id": 23,
@@ -388,7 +410,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 66.1389764303,
     "IT": 11,
-    "NIRF": 41
+    "NIRF": 41,
+    "State": " Bihar"
   },
   {
     "Id": 24,
@@ -405,7 +428,8 @@
     "Exam": "JEE",
     "Score": 69.7907362032,
     "IT": 20,
-    "NIRF": 23
+    "NIRF": 23,
+    "State": " Punjab"
   },
   {
     "Id": 25,
@@ -422,7 +446,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 77.1058012961,
     "IT": 9,
-    "NIRF": 18
+    "NIRF": 18,
+    "State": " Gujarat"
   },
   {
     "Id": 26,
@@ -439,7 +464,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 60.3350356985,
     "IT": 40,
-    "NIRF": 21
+    "NIRF": 21,
+    "State": " Telangana"
   },
   {
     "Id": 27,
@@ -456,7 +482,8 @@
     "Exam": "JEE + CUET",
     "Score": 71.2239124328,
     "IT": 8,
-    "NIRF": 29
+    "NIRF": 29,
+    "State": " Delhi NCR"
   },
   {
     "Id": 28,
@@ -473,7 +500,8 @@
     "Exam": "JEE",
     "Score": 60.7592590042,
     "IT": 29,
-    "NIRF": 29
+    "NIRF": 29,
+    "State": " Delhi NCR"
   },
   {
     "Id": 29,
@@ -490,7 +518,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 66.0575780953,
     "IT": 23,
-    "NIRF": 23
+    "NIRF": 23,
+    "State": " Kerala"
   },
   {
     "Id": 30,
@@ -507,7 +536,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 71.86161295,
     "IT": 11,
-    "NIRF": 22
+    "NIRF": 22,
+    "State": " Punjab"
   },
   {
     "Id": 31,
@@ -524,7 +554,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 75.117814939,
     "IT": 16,
-    "NIRF": 9
+    "NIRF": 9,
+    "State": " Kerala"
   },
   {
     "Id": 32,
@@ -541,7 +572,8 @@
     "Exam": "JEE",
     "Score": 47.3778977846,
     "IT": 41,
-    "NIRF": 41
+    "NIRF": 41,
+    "State": " Maharashtra"
   },
   {
     "Id": 33,
@@ -558,7 +590,8 @@
     "Exam": "JEE + SAAT",
     "Score": 55.4028554789,
     "IT": 32,
-    "NIRF": 32
+    "NIRF": 32,
+    "State": " Orissa"
   },
   {
     "Id": 34,
@@ -575,7 +608,8 @@
     "Exam": "JEE + BITSAT",
     "Score": 39.7460865101,
     "IT": 43,
-    "NIRF": 53
+    "NIRF": 53,
+    "State": " Jharkhand"
   },
   {
     "Id": 35,
@@ -592,7 +626,8 @@
     "Exam": "JEE + CUET + Amity JEE",
     "Score": 39.2689586646,
     "IT": 65,
-    "NIRF": 31
+    "NIRF": 31,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 36,
@@ -609,7 +644,8 @@
     "Exam": "JEE + SRMJEEE",
     "Score": 61.2069286733,
     "IT": 13,
-    "NIRF": 36
+    "NIRF": 36,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 37,
@@ -626,7 +662,8 @@
     "Exam": "JEE + TNEA + TANCET",
     "Score": 39.6655061223,
     "IT": 48,
-    "NIRF": 45
+    "NIRF": 45,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 38,
@@ -643,7 +680,8 @@
     "Exam": "JEE + TNEA + TANCET",
     "Score": 41.5805805811,
     "IT": 47,
-    "NIRF": 41
+    "NIRF": 41,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 39,
@@ -660,7 +698,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 56.0392842567,
     "IT": 2,
-    "NIRF": 55
+    "NIRF": 55,
+    "State": " Telangana"
   },
   {
     "Id": 40,
@@ -677,7 +716,8 @@
     "Exam": "JEE + CUET",
     "Score": 44.0364719335,
     "IT": 49,
-    "NIRF": 32
+    "NIRF": 32,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 41,
@@ -694,7 +734,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 41.2584155342,
     "IT": 28,
-    "NIRF": 58
+    "NIRF": 58,
+    "State": " Haryana"
   },
   {
     "Id": 42,
@@ -711,7 +752,8 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 51.694896847,
     "IT": 14,
-    "NIRF": 49
+    "NIRF": 49,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 43,
@@ -728,7 +770,8 @@
     "Exam": "JEE-Mains + JEE-Adv + MET",
     "Score": 69.3126981878,
     "IT": 16,
-    "NIRF": 9
+    "NIRF": 9,
+    "State": " Karnataka"
   },
   {
     "Id": 44,
@@ -745,7 +788,8 @@
     "Exam": "JEE + TNEA + TANCET",
     "Score": 36.3355936678,
     "IT": 30,
-    "NIRF": 63
+    "NIRF": 63,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 45,
@@ -762,7 +806,8 @@
     "Exam": "JEE",
     "Score": 2.5488960089,
     "IT": 80,
-    "NIRF": 83
+    "NIRF": 83,
+    "State": " Telangana"
   },
   {
     "Id": 46,
@@ -779,7 +824,8 @@
     "Exam": "JEE + TS-EAMCET",
     "Score": 48.4109295622,
     "IT": 23,
-    "NIRF": 43
+    "NIRF": 43,
+    "State": " West Bengal"
   },
   {
     "Id": 47,
@@ -796,7 +842,8 @@
     "Exam": "JEE + TNEA + TANCET",
     "Score": 41.0956956481,
     "IT": 14,
-    "NIRF": 66
+    "NIRF": 66,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 48,
@@ -813,7 +860,8 @@
     "Exam": "JEE + KIITEE",
     "Score": 38.7907749581,
     "IT": 45,
-    "NIRF": 39
+    "NIRF": 39,
+    "State": " Orissa"
   },
   {
     "Id": 49,
@@ -830,7 +878,8 @@
     "Exam": "JEE + MHT CET",
     "Score": 10.1044565643,
     "IT": 70,
-    "NIRF": 73
+    "NIRF": 73,
+    "State": " Maharashtra"
   },
   {
     "Id": 50,
@@ -847,6 +896,7 @@
     "Exam": "JEE-Mains + JEE-Adv",
     "Score": 28.9378273889,
     "IT": 50,
-    "NIRF": 53
+    "NIRF": 53,
+    "State": " Rajasthan"
   }
 ]

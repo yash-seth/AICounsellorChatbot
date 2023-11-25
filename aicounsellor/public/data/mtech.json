@@ -15,7 +15,8 @@
     "Score": 100.0,
     "NIRF": 1,
     "QS": -1,
-    "IT": 3
+    "IT": 3,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 2,
@@ -33,7 +34,8 @@
     "Score": 99.5067369193,
     "NIRF": 3,
     "QS": -1,
-    "IT": 1
+    "IT": 1,
+    "State": " Delhi NCR"
   },
   {
     "Id": 3,
@@ -51,7 +53,8 @@
     "Score": 98.0266371854,
     "NIRF": 4,
     "QS": -1,
-    "IT": 2
+    "IT": 2,
+    "State": " Maharashtra"
   },
   {
     "Id": 4,
@@ -69,7 +72,8 @@
     "Score": 95.4736815634,
     "NIRF": 7,
     "QS": -1,
-    "IT": 4
+    "IT": 4,
+    "State": " West Bengal"
   },
   {
     "Id": 5,
@@ -87,7 +91,8 @@
     "Score": 96.3200268322,
     "NIRF": 5,
     "QS": -1,
-    "IT": 3
+    "IT": 3,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 6,
@@ -105,7 +110,8 @@
     "Score": 93.3901942731,
     "NIRF": 8,
     "QS": -1,
-    "IT": 5
+    "IT": 5,
+    "State": " Uttarakhand"
   },
   {
     "Id": 7,
@@ -123,7 +129,8 @@
     "Score": 88.9015358953,
     "NIRF": 20,
     "QS": -1,
-    "IT": 1
+    "IT": 1,
+    "State": " Rajasthan"
   },
   {
     "Id": 8,
@@ -141,7 +148,8 @@
     "Score": 91.5227395486,
     "NIRF": 9,
     "QS": -1,
-    "IT": 6
+    "IT": 6,
+    "State": " Assam"
   },
   {
     "Id": 9,
@@ -159,7 +167,8 @@
     "Score": 87.6976083115,
     "NIRF": 14,
     "QS": -1,
-    "IT": 8
+    "IT": 8,
+    "State": " Telangana"
   },
   {
     "Id": 10,
@@ -177,7 +186,8 @@
     "Score": 85.6366587468,
     "NIRF": 13,
     "QS": -1,
-    "IT": 12
+    "IT": 12,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 11,
@@ -195,7 +205,8 @@
     "Score": 82.8854039165,
     "NIRF": 21,
     "QS": -1,
-    "IT": 9
+    "IT": 9,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 12,
@@ -213,7 +224,8 @@
     "Score": 77.8735937974,
     "NIRF": 31,
     "QS": -1,
-    "IT": 9
+    "IT": 9,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 13,
@@ -231,7 +243,8 @@
     "Score": 77.560301247,
     "NIRF": 23,
     "QS": -1,
-    "IT": 16
+    "IT": 16,
+    "State": " Maharashtra"
   },
   {
     "Id": 14,
@@ -249,7 +262,8 @@
     "Score": 78.3002886292,
     "NIRF": 28,
     "QS": -1,
-    "IT": 9
+    "IT": 9,
+    "State": " Madhya Pradesh"
   },
   {
     "Id": 15,
@@ -267,7 +281,8 @@
     "Score": 88.2106042544,
     "NIRF": 10,
     "QS": -1,
-    "IT": 5
+    "IT": 5,
+    "State": " West Bengal"
   },
   {
     "Id": 16,
@@ -285,7 +300,8 @@
     "Score": 79.95197725,
     "NIRF": 17,
     "QS": -1,
-    "IT": 14
+    "IT": 14,
+    "State": " Jharkhand"
   },
   {
     "Id": 17,
@@ -303,7 +319,8 @@
     "Score": 76.7948733701,
     "NIRF": 16,
     "QS": -1,
-    "IT": 21
+    "IT": 21,
+    "State": " Orissa"
   },
   {
     "Id": 18,
@@ -321,7 +338,8 @@
     "Score": 66.5721138583,
     "NIRF": 47,
     "QS": -1,
-    "IT": 11
+    "IT": 11,
+    "State": " Orissa"
   },
   {
     "Id": 19,
@@ -339,7 +357,8 @@
     "Score": 86.0896442195,
     "NIRF": 11,
     "QS": -1,
-    "IT": 4
+    "IT": 4,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 20,
@@ -357,7 +376,8 @@
     "Score": 53.702462424,
     "NIRF": 66,
     "QS": -1,
-    "IT": 17
+    "IT": 17,
+    "State": " West Bengal"
   },
   {
     "Id": 21,
@@ -375,7 +395,8 @@
     "Score": 71.2750814063,
     "NIRF": 33,
     "QS": -1,
-    "IT": 12
+    "IT": 12,
+    "State": " Himachal Pradesh"
   },
   {
     "Id": 22,
@@ -393,7 +414,8 @@
     "Score": 86.6460619404,
     "NIRF": 12,
     "QS": -1,
-    "IT": -1
+    "IT": -1,
+    "State": " Karnataka"
   },
   {
     "Id": 23,
@@ -411,7 +433,8 @@
     "Score": 64.6754832258,
     "NIRF": 41,
     "QS": -1,
-    "IT": 16
+    "IT": 16,
+    "State": " Bihar"
   },
   {
     "Id": 24,
@@ -429,7 +452,8 @@
     "Score": 78.5770647179,
     "NIRF": 20,
     "QS": -1,
-    "IT": 6
+    "IT": 6,
+    "State": " Punjab"
   },
   {
     "Id": 25,
@@ -447,7 +471,8 @@
     "Score": 77.7974850612,
     "NIRF": 18,
     "QS": -1,
-    "IT": 9
+    "IT": 9,
+    "State": " Gujarat"
   },
   {
     "Id": 26,
@@ -465,7 +490,8 @@
     "Score": 60.3531167226,
     "NIRF": 53,
     "QS": -1,
-    "IT": 10
+    "IT": 10,
+    "State": " Telangana"
   },
   {
     "Id": 27,
@@ -483,7 +509,8 @@
     "Score": 72.00840126,
     "NIRF": 29,
     "QS": -1,
-    "IT": 8
+    "IT": 8,
+    "State": " Delhi NCR"
   },
   {
     "Id": 28,
@@ -501,7 +528,8 @@
     "Score": 85.6000846178,
     "NIRF": 2,
     "QS": -1,
-    "IT": 5
+    "IT": 5,
+    "State": " Delhi NCR"
   },
   {
     "Id": 29,
@@ -519,7 +547,8 @@
     "Score": 46.7471123233,
     "NIRF": 23,
     "QS": -1,
-    "IT": 66
+    "IT": 66,
+    "State": " Kerala"
   },
   {
     "Id": 30,
@@ -537,7 +566,8 @@
     "Score": 72.6937114044,
     "NIRF": 22,
     "QS": -1,
-    "IT": 11
+    "IT": 11,
+    "State": " Punjab"
   },
   {
     "Id": 31,
@@ -555,7 +585,8 @@
     "Score": 78.6596737954,
     "NIRF": 4,
     "QS": -1,
-    "IT": 15
+    "IT": 15,
+    "State": " Kerala"
   },
   {
     "Id": 32,
@@ -573,7 +604,8 @@
     "Score": 41.0211636568,
     "NIRF": 82,
     "QS": -1,
-    "IT": 16
+    "IT": 16,
+    "State": " Maharashtra"
   },
   {
     "Id": 33,
@@ -591,7 +623,8 @@
     "Score": 63.4688684499,
     "NIRF": 32,
     "QS": -1,
-    "IT": 17
+    "IT": 17,
+    "State": " Orissa"
   },
   {
     "Id": 34,
@@ -609,7 +642,8 @@
     "Score": 59.7948214289,
     "NIRF": 53,
     "QS": -1,
-    "IT": 3
+    "IT": 3,
+    "State": " Jharkhand"
   },
   {
     "Id": 35,
@@ -627,7 +661,8 @@
     "Score": 68.173709229,
     "NIRF": 31,
     "QS": -1,
-    "IT": 6
+    "IT": 6,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 36,
@@ -645,7 +680,8 @@
     "Score": 62.1439860119,
     "NIRF": 36,
     "QS": -1,
-    "IT": 13
+    "IT": 13,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 37,
@@ -663,7 +699,8 @@
     "Score": 38.1273986661,
     "NIRF": 80,
     "QS": -1,
-    "IT": 19
+    "IT": 19,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 38,
@@ -681,7 +718,8 @@
     "Score": 67.3237242732,
     "NIRF": 26,
     "QS": -1,
-    "IT": 10
+    "IT": 10,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 39,
@@ -699,7 +737,8 @@
     "Score": 57.0562280344,
     "NIRF": 55,
     "QS": -1,
-    "IT": 2
+    "IT": 2,
+    "State": " Telangana"
   },
   {
     "Id": 40,
@@ -717,7 +756,8 @@
     "Score": 52.1985696681,
     "NIRF": 53,
     "QS": -1,
-    "IT": 13
+    "IT": 13,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 41,
@@ -735,7 +775,8 @@
     "Score": 68.3358101923,
     "NIRF": 32,
     "QS": -1,
-    "IT": -1
+    "IT": -1,
+    "State": " Haryana"
   },
   {
     "Id": 42,
@@ -753,7 +794,8 @@
     "Score": 27.8025104758,
     "NIRF": 101,
     "QS": -1,
-    "IT": 15
+    "IT": 15,
+    "State": " Uttar Pradesh"
   },
   {
     "Id": 43,
@@ -771,7 +813,8 @@
     "Score": 60.7312965989,
     "NIRF": 61,
     "QS": -1,
-    "IT": -16
+    "IT": -16,
+    "State": " Karnataka"
   },
   {
     "Id": 44,
@@ -789,7 +832,8 @@
     "Score": 47.5461819136,
     "NIRF": 63,
     "QS": -1,
-    "IT": 9
+    "IT": 9,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 45,
@@ -807,7 +851,8 @@
     "Score": 33.9105605507,
     "NIRF": 83,
     "QS": -1,
-    "IT": 17
+    "IT": 17,
+    "State": " Telangana"
   },
   {
     "Id": 46,
@@ -825,7 +870,8 @@
     "Score": 49.0797838523,
     "NIRF": 43,
     "QS": -1,
-    "IT": 24
+    "IT": 24,
+    "State": " West Bengal"
   },
   {
     "Id": 47,
@@ -843,7 +889,8 @@
     "Score": 42.4201650299,
     "NIRF": 66,
     "QS": -1,
-    "IT": 14
+    "IT": 14,
+    "State": " Tamil Nadu"
   },
   {
     "Id": 48,
@@ -861,7 +908,8 @@
     "Score": 52.2802768363,
     "NIRF": 39,
     "QS": -1,
-    "IT": 19
+    "IT": 19,
+    "State": " Orissa"
   },
   {
     "Id": 49,
@@ -879,7 +927,8 @@
     "Score": 38.1253628999,
     "NIRF": 73,
     "QS": -1,
-    "IT": 14
+    "IT": 14,
+    "State": " Maharashtra"
   },
   {
     "Id": 50,
@@ -897,6 +946,7 @@
     "Score": 55.755240912,
     "NIRF": 30,
     "QS": -1,
-    "IT": 19
+    "IT": 19,
+    "State": " Rajasthan"
   }
 ]
